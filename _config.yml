@@ -14,7 +14,7 @@ country: Canada
 phone: (778) 782-7400
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source:  pages # accepts "posts" or "pages"
 tiles-count: 5
 
 # social settings
