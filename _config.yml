@@ -4,7 +4,7 @@ subtitle: SFU Surrey Career Fair
 email: anjan@momi.ca
 description: Software Systems and Mechatronic Systems Engineering Career Fair
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://anjandev.gitlab.io" # the base hostname & protocol for your site
 author: Anjandev Momi
 street_address: 250-13450 102 Avenue
 city: Surrey
