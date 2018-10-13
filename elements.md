@@ -2,12 +2,18 @@
 title: For Students
 layout: post
 description: Interested in attending SystemsFair 2019?
-image: assets/images/pic11.jpg
+image: assets/images/Team_Guardian_1.jpg
 nav-menu: true
 ---
+# Why should you attend?
+SystemsFair provides an excellent opportunity for the faculty of applied science students and recent graduates to network with industry representatives and find out about jobs and internships.
+By visiting company booths, you can:
+* Network with potential employers
+* Investigate and research career options
+* Obtain insider information from employers about key factors that can help you with your job search and give you an advantage over other candidates (Education requirements, Salary expectations, Corporate cultures, Job requirements, Industry growth, Industry trends, Skills and qualifications)
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+# Interested in Volunteering?
+One of the greatest ways to get involved with SystemsFair is to volunteer. An event of this size requires a group of enthusiastic and motivated individuals to help with different roles prior to and during the event date. If you are interested in sharing your time and talents, and would also like to learn and develop your skills and build your resume, we would be happy to have you join our team to support SystemsFair. Please reach out to Ramy at relmalla@sfu.ca or leave us a message using the form below on this page!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+# Want to get prepared?
+Mechatronic Systems Engineering Student Society and Software Systems Student Society will be coordinating workshops to help best prepare you for the fair. These workshops would help develop your resume writing and networking skills. Please visit this page later in December/January for more details, and feel free to reach out if you have any questions.
