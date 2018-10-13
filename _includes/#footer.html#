@@ -24,15 +24,12 @@
 		<section class="split">
 			<section>
 				<div class="contact-method">
-				        <h2>Director of SystemsFair </h2>
-					<h3>Ramy ElMallah</h3>
-				</div>
-
-				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
 					<h3>Email</h3>
 					<a href="#">{{ site.email }}</a>
 				</div>
+			</section>
+			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
@@ -64,13 +61,12 @@
 			</section>
 			<section>
 				<div class="contact-method">
-					<center><h3>Organized By</h3>
-					<span>
-					    <a href="http://ssss-sfu.ca/"><img src="assets/images/ssss_official_logo_500_x_500_large.png" alt="Software Systems Student Society" width="125px" height="125px"></img></a>
-					    <a href="http://www.msess.ca"><img src="assets/images/MSESSLogo.svg" alt="Mechatronic Systems Engineering Student Society" width="125px" height="125px" ></img></a>
-					</span>
-					<p>Click on a logo to learn more about the student society!
-					</center>
+					<center><h3>Organized By</h3
+							>
+					<SPANUUU>
+					    <img src="assets/images/ssss_official_logo_500_x_500_large.png" alt="Software Systems Student Society" width="125px" height="125px"></img>
+					    <img src="assets/images/MSESSLogo.svg" alt="Mechatronic Systems Engineering Student Society" width="125px" height="125px"></img>
+					</span></center>
 				</div>
 			</section>
 	

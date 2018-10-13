@@ -1,17 +1,17 @@
 # site settings
 title: SystemsFair
 subtitle: SFU Surrey Career Fair
-email: anjan@momi.ca
+email: relmalla@sfu.ca
 description: Software Systems and Mechatronic Systems Engineering Career Fair
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://anjandev.gitlab.io" # the base hostname & protocol for your site
-author: Anjandev Momi
+author: Ramy ElMallah
 street_address: 250-13450 102 Avenue
 city: Surrey
 state: British Columbia
 zip_code: V3T 0A3
 country: Canada
-phone: (778) 782-7400
+phone: (604) 518-9051
 
 # homepage tiles
 tiles-source:  pages # accepts "posts" or "pages"
