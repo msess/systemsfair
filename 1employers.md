@@ -35,5 +35,5 @@ By attending SystemsFair, you can:
 >>packages table goes here<<
 
 
-Registration Steps
+# Registration Steps
 Registration opens October 25, 2018
