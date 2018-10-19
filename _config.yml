@@ -1,6 +1,6 @@
 # site settings
 title: SystemsFair
-subtitle: SFU Surrey Engineering Career Fair
+subtitle: SFU Surrey Tech Career Fair
 email: relmalla@sfu.ca
 description: Software Systems and Mechatronic Systems Engineering Career Fair
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
