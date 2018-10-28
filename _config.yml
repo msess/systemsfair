@@ -3,8 +3,8 @@ title: SystemsFair
 subtitle: SFU Surrey Tech Career Fair
 email: relmalla@sfu.ca
 description: Software Systems and Mechatronic Systems Engineering Career Fair
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://anjandev.gitlab.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://systemsfair.ca" # the base hostname & protocol for your site
 author: Ramy ElMallah
 street_address: 250-13450 102 Avenue
 city: Surrey
