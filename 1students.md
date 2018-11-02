@@ -1,7 +1,8 @@
 ---
 title: For Students
 layout: post
-description: SystemsFair provides an incredible opportunity for students and recent graduates to discover amazing opportunities, network with industry representatives from potential future employers, and find out more about the available jobs and internships! <p> <p> SystemsFair is tailored towards Mechatronics and Software Systems students but open to all SFU students and alumni. Workshops will be coordinated to best prepare you to get the most out of the fair!</p> <b>Interested in attending SystemsFair 2019?</b></p><br><ul class="actions"><li><a href="generic.html" class="button">Learn more</a></li></ul>
+permalink: /students
+description: SystemsFair provides an incredible opportunity for students and recent graduates to discover amazing opportunities, network with industry representatives from potential future employers, and find out more about the available jobs and internships! <p> <p> SystemsFair is tailored towards Mechatronics and Software Systems students but open to all SFU students and alumni. Workshops will be coordinated to best prepare you to get the most out of the fair!</p> <b>Interested in attending SystemsFair 2019?</b></p><br><ul class="actions"><li><a href="students.html" class="button">Learn more</a></li></ul>
 image: assets/images/Team_Guardian_1.jpg
 
 nav-menu: true
