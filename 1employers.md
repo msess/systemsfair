@@ -6,6 +6,10 @@ description: <p>We created an event for industry representatives like you to mee
 image: assets/images/Systems_Hack_2.jpg
 nav-menu: true
 ---
+<ul class="actions">
+	<li><a href="##registration" class="button special icon fa-arrow-down">Register now</a></li>
+</ul>
+
 # What is SystemsFair?
 SystemsFair (formerly MechExpo) is the Engineering Career Fair at Simon Fraser University (SFU)’s Surrey Campus. Created in 2014, SystemsFair provides a venue for engineering students to meet with employers in the industry one-on-one, and get a feel for the tech community and the opportunities available to them, and for employers to scout student talent and gain exposure for their organizations.
 
@@ -182,6 +186,7 @@ By attending SystemsFair, you can:
 
 <b>* Early Bird Pricing. Valid until December 10, 2018</b>
 
+<a class="anchor" a id="#registration"></a>
 # Registration
 <ul class="actions">
 	<li><a href="https://www.eventbrite.ca/e/systems-fair-2019-tickets-51720767207" class="button special icon fa-money-bill">Click to register on EventBrite</a></li>
