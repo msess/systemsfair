@@ -33,8 +33,156 @@ By attending SystemsFair, you can:
 
 
 # Sponsorship Packages
->>packages table goes here<<
+<div class="table-wrapper">
+<table class="alt">
+<thead>
+	<tr>
+		<td></td>
+		<td><b>Exhibitor</b></td>
+		<td><b>Silver<br>Sponsor</b></td>
+		<td><b>Gold<br>Sponsor</b></td>
+		<td><b>Platinum<br>Sponsor</b></td>
 
+	</tr>
+</thead>
+<tfoot>
+	<tr>
+		<td></td>
+		<td><strike>$700</strike><br>$600*</td>
+		<td><strike>$1000</strike><br>$850*</td>
+		<td>$1250</td>
+		<td>$1750</td>
+	</tr>
+</tfoot>
+<tbody>
+	<tr>
+		<td>6' skirted table + 2 chairs</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Internet/Wi-Fi access - Electricity and Power Bar</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Pitch opportunity about the company</td>
+		<td><i class="fas fa-check"></i><br>1 min</td>
+		<td><i class="fas fa-check"></i><br>2 mins</td>
+		<td><i class="fas fa-check"></i><br>3 mins</td>
+		<td><i class="fas fa-check"></i><br>5 mins</td>
+	</tr>
+	<tr>
+		<td>Breakfast and Lunch Passes provided</td>
+		<td>2<br>persons</td>
+		<td>3<br>persons</td>
+		<td>4<br>persons</td>
+		<td>5<br>persons</td>
+	</tr>
+						<tr>
+		<td>Logo listed on SystemsFair website</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>2 Parking passes</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
 
-# Registration Steps
-Registration opens October 25, 2018
+	<tr>
+		<td>On-Campus Company Information Session on the same or other day in the same semester</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td>50% discount</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Company Logo and brief on two MSESS and SSSS newsletters</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Organization featured in one page of printed brochure and selected print advertisement</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Premium High-traffic booth location</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>venue for interviews during the event day</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Company logo on refreshment table tent cards</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Logo on MSESS website, SSSS website, and SystemsFair website homepage for 4 months</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Logo featured on printed posters for SystemsFair advertising Campaign</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Logo printed on SystemsFair 2019 T-Shirts</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>A Large TV screen</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Double the size of the regular booth</td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+
+</tbody>
+</table>
+</div>
+
+<b>* Early Bird Pricing. Valid until December 10, 2018</b>
+
+# Registration
+<ul class="actions">
+	<li><a href="#" class="button special icon fa-money-bill">Click to register on Event-Brite</a></li>
+</ul>
