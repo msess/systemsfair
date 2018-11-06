@@ -4,6 +4,7 @@ layout: post
 permalink: /employers
 description: <p>We created an event for industry representatives like you to meet uprising future engineers and gain exposure for your organization. SystemsFair is the right fit for your organization if you need an engineer fluent across disciplines and trained to work in a team effectively.</p> <p>If your organization is actively hiring for co-op and full-time positions, SystemsFair is a perfect place to meet top student talent, conduct your first round of interviews and save time.</p><p><b>Interested in supporting SystemsFair 2019?</b></p><br><ul class="actions"><li><a href="employers.html" class="button">Reserve your place</a></li></ul>
 nav-menu: true
+image: assets/images/Systems_Hack_2.jpg
 ---
 <ul class="actions">
 	<li><a href="##registration" class="button special icon fa-arrow-down">Register now</a></li>
