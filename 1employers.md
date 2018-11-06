@@ -184,5 +184,5 @@ By attending SystemsFair, you can:
 
 # Registration
 <ul class="actions">
-	<li><a href="#" class="button special icon fa-money-bill">Click to register on Event-Brite</a></li>
+	<li><a href="https://www.eventbrite.ca/e/systems-fair-2019-tickets-51720767207" class="button special icon fa-money-bill">Click to register on EventBrite</a></li>
 </ul>
