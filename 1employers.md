@@ -23,13 +23,13 @@ By attending SystemsFair, you can:
 * Network with potential employees
 * Inform students of career options within your organization
 * Answer and discuss common topics such as:
-* Education requirements
-* Salary expectations
-* Corporate cultures
-* Job requirements
-* Industry growth
-* Industry trends
-* Skills and qualifications
+    - Education requirements
+    - Salary expectations
+    - Corporate cultures
+    - Job requirements
+    - Industry growth
+    - Industry trends
+    - Skills and qualifications
 
 
 # Sponsorship Packages
