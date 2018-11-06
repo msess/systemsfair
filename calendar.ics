@@ -1,40 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//www.marudot.com//iCal Event Maker
-X-WR-CALNAME:Systems Fair - SFU Surrey
 CALSCALE:GREGORIAN
-BEGIN:VTIMEZONE
-TZID:America/Los_Angeles
-TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
-X-LIC-LOCATION:America/Los_Angeles
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0800
-TZOFFSETTO:-0700
-TZNAME:PDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0800
-TZNAME:PST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20181016T035554Z
-UID:20181016T035554Z-828974066@marudot.com
-DTSTART;VALUE=DATE:20190207
-DTEND;VALUE=DATE:20190207
-SUMMARY:SFU Systemsfair
-URL:https%3A%2F%2Fsystemsfair.ca
-DESCRIPTION:SFU Surrey Engineering Career Fair\n
-LOCATION:Simon Fraser University Surrey
+DTSTAMP:20181106T055209Z
+UID:20181106T055209Z-611410885@marudot.com
+DTSTART;TZID="/Etc/UTC":20190208T090000
+DTEND;TZID="/Etc/UTC":20190208T160000
+SUMMARY:Systemsfair - SFU Surrey Tech Career Fair
+URL:https%3A%2F%2Fsystemsfair.ca%2F
+DESCRIPTION:SystemsFair (formerly MechExpo) is the Engineering Career Fair at Simon Fraser University (SFU)’s Surrey Campus. Created in 2014\, SystemsFair provides a venue for engineering students to meet with employers in the industry one-on-one\, and get a feel for the tech community and the opportunities available to them\, and for employers to scout student talent and gain exposure for their organizations.
+LOCATION:Simon Fraser University Surrey Campus
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SFU Systemsfair
-TRIGGER:-P1D
+DESCRIPTION:Systemsfair - SFU Surrey Tech Career Fair
+TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 END:VCALENDAR
