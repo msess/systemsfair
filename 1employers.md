@@ -98,7 +98,7 @@ By attending SystemsFair, you can:
 	</tr>
 	<tr>
 		<td>2 Parking passes</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
@@ -106,79 +106,79 @@ By attending SystemsFair, you can:
 
 	<tr>
 		<td>On-Campus Company Information Session on the same or other day in the same semester</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td>50% discount</td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>Company Logo and brief on two MSESS and SSSS newsletters</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>Organization featured in one page of printed brochure and selected print advertisement</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>Premium High-traffic booth location</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>venue for interviews during the event day</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>Company logo on refreshment table tent cards</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>Logo on MSESS website, SSSS website, and SystemsFair website homepage for 4 months</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>Logo featured on printed posters for SystemsFair advertising Campaign</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>Logo printed on SystemsFair 2019 T-Shirts</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>A Large TV screen</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>Double the size of the regular booth</td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="http://i63.tinypic.com/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 
