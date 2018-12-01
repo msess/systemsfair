@@ -7,7 +7,7 @@ nav-menu: true
 image: assets/images/Systems_Hack_2.jpg
 ---
 <ul class="actions">
-	<li><a href="#registration" class="button special icon fa-arrow-down">Register now</a></li>
+	<li><a href="##sponsor" class="button special icon fa-arrow-down">Register now</a></li>
 </ul>
 
 <span class="image main"><img src="assets/images/Systems_Hack_2.jpg" alt="Systems hack" /></span>
@@ -38,7 +38,9 @@ By attending SystemsFair, you can:
     - Industry trends
     - Skills and qualifications
 
-<a id="#registration"></a>
+<a id="#sponsor">
+</a>
+
 # Sponsorship Packages
 
 *Please contact us for custom packages starting at $300 or to inquire about the promotional discounts available*
