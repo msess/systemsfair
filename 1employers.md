@@ -7,7 +7,7 @@ nav-menu: true
 image: assets/images/Systems_Hack_2.jpg
 ---
 <ul class="actions">
-	<li><a href="##registration" class="button special icon fa-arrow-down">Register now</a></li>
+	<li><a href="#registration" class="button special icon fa-arrow-down">Register now</a></li>
 </ul>
 
 <span class="image main"><img src="assets/images/Systems_Hack_2.jpg" alt="Systems hack" /></span>
@@ -38,7 +38,7 @@ By attending SystemsFair, you can:
     - Industry trends
     - Skills and qualifications
 
-
+<a class="anchor" a id="#registration"></a>
 # Sponsorship Packages
 <div class="table-wrapper">
 <table class="alt">
@@ -189,7 +189,6 @@ By attending SystemsFair, you can:
 
 <b>* Early Bird Pricing. Valid until December 10, 2018</b>
 
-<a class="anchor" a id="#registration"></a>
 # Registration
 <div style="width:100%; text-align:left;"><iframe src="https://eventbrite.ca/tickets-external?eid=51720767207&ref=etckt" frameborder="0" height="733"
       width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div
