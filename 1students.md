@@ -8,7 +8,7 @@ image: assets/images/Team_Guardian_1.jpg
 nav-menu: true
 ---
 # Why should you attend?
-SystemsFair provides an excellent opportunity for the faculty of applied science students and recent graduates to network with industry representatives and find out about jobs and internships.
+SystemsFair provides an excellent opportunity for the Faculty of Applied Sciences students and recent graduates to network with industry representatives and find out about jobs and internships.
 By visiting company booths, you can:
 * Network with potential employers
 * Investigate and research career options
