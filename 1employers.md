@@ -38,8 +38,10 @@ By attending SystemsFair, you can:
     - Industry trends
     - Skills and qualifications
 
-<a class="anchor" a id="#registration"></a>
+<a id="#registration"></a>
 # Sponsorship Packages
+
+*Please contact us for custom packages starting at $300 or to inquire about the promotional discounts available*
 <div class="table-wrapper">
 <table class="alt">
 <thead>
