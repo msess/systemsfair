@@ -18,4 +18,7 @@ By visiting company booths, you can:
 One of the greatest ways to get involved with SystemsFair is to volunteer. An event of this size requires a group of enthusiastic and motivated individuals to help with different roles prior to and during the event date. If you are interested in sharing your time and talents, and would also like to learn and develop your skills and build your resume, we would be happy to have you join our team to support SystemsFair. Please reach out to Ramy at relmalla@sfu.ca or leave us a message using the form below on this page!
 
 # Want to get prepared?
-Mechatronic Systems Engineering Student Society and Software Systems Student Society will be coordinating workshops to help best prepare you for the fair. These workshops would help develop your resume writing and networking skills. Please visit this page later in December/January for more details, and feel free to reach out if you have any questions.
+
+![Time for workshop and resume drop-ins](/assets/images/workshops.jpg "Time for workshop and resume drop-ins")
+
+Come to the Resume Review Drop-ins on Thursday, Jan. 24 for tips on making your resume more effective, and come join us on Friday, Jan. 25 to learn how to make a good impression at SystemsFair!
