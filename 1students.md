@@ -22,3 +22,7 @@ One of the greatest ways to get involved with SystemsFair is to volunteer. An ev
 ![Time for workshop and resume drop-ins](/assets/images/workshops.jpg "Time for workshop and resume drop-ins")
 
 Come to the Resume Review Drop-ins on Thursday, Jan. 24 for tips on making your resume more effective, and come join us on Friday, Jan. 25 to learn how to make a good impression at SystemsFair!
+
+# Attendee Registration
+ <div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=54127508836&ref=etckt" frameborder="0"
+ height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
