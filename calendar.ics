@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 DTSTAMP:20181106T055209Z
 UID:20181106T055209Z-611410885@marudot.com
-DTSTART;TZID="/Etc/UTC":20190208T090000
-DTEND;TZID="/Etc/UTC":20190208T160000
+DTSTART;TZID="/Etc/UTC":20200207T090000
+DTEND;TZID="/Etc/UTC":20200207T160000
 SUMMARY:Systemsfair - SFU Surrey Tech Career Fair
 URL:https%3A%2F%2Fsystemsfair.ca%2F
 DESCRIPTION:SystemsFair (formerly MechExpo) is the Engineering Career Fair at Simon Fraser University (SFU)’s Surrey Campus. Created in 2014\, SystemsFair provides a venue for engineering students to meet with employers in the industry one-on-one\, and get a feel for the tech community and the opportunities available to them\, and for employers to scout student talent and gain exposure for their organizations.

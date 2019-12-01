@@ -4,13 +4,13 @@ layout: post
 permalink: /employers
 description: <p>We created an event for industry representatives like you to meet uprising future engineers and gain exposure for your organization. SystemsFair is the right fit for your organization if you need an engineer fluent across disciplines and trained to work in a team effectively.</p> <p>If your organization is actively hiring for co-op and full-time positions, SystemsFair is a perfect place to meet top student talent, conduct your first round of interviews and save time.</p><p><b>Interested in supporting SystemsFair 2019?</b></p><br><ul class="actions"><li><a href="employers.html" class="button">Reserve your place</a></li></ul>
 nav-menu: true
-image: assets/images/Systems_Hack_2.jpg
+image: assets/images/fair.jpg
 ---
 <ul class="actions">
 	<li><a href="##sponsor" class="button special icon fa-arrow-down">Register now</a></li>
 </ul>
 
-<span class="image main"><img src="assets/images/Systems_Hack_2.jpg" alt="Systems hack" /></span>
+<span class="image main"><img src="assets/images/fair.jpg" alt="Systems hack" /></span>
 
 
 # What is SystemsFair?
@@ -38,6 +38,15 @@ By attending SystemsFair, you can:
     - Industry trends
     - Skills and qualifications
 
+# Get a chance to meet the Engineering Design Teams
+
+Our design teams are made by students who are technology enthusiasists. Please take your time to chck out these amazing teams (links below).
+
+* [Team Phantom](https://teamphantom.ca/)
+* [SFU Satellite](https://www.sfusat.org/)
+* [Team Guardian](https://www.teamguardian.ca/)
+* [SFU Rocketry](https://www.sfurocketry.com/)
+
 <a id="#sponsor">
 </a>
 
@@ -49,152 +58,130 @@ By attending SystemsFair, you can:
 <thead>
 	<tr>
 		<td></td>
-		<td><b>Exhibitor</b></td>
-		<td><b>Silver<br>Sponsor</b></td>
-		<td><b>Gold<br>Sponsor</b></td>
 		<td><b>Platinum<br>Sponsor</b></td>
-
+		<td><b>Gold<br>Sponsor</b></td>
+		<td><b>Silver<br>Sponsor</b></td>
+		<td><b>Exhibitor<br>Sponsor</b></td>
 	</tr>
 </thead>
 <tfoot>
 	<tr>
 		<td></td>
-		<td><strike>$700</strike><br>$600*</td>
-		<td><strike>$1000</strike><br>$850*</td>
-		<td>$1250</td>
 		<td>$1750</td>
+		<td>$1250</td>
+		<td>$850</td>
+		<td>$650</td>
 	</tr>
 </tfoot>
 <tbody>
 	<tr>
-		<td>6' skirted table + 2 chairs</td>
+		<td>Logo listed on SystemsFair website with a link to your company weebsite</td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
-		<td>Internet/Wi-Fi access - Electricity and Power Bar</td>
-		<td><i class="fas fa-check"></i></td>
-		<td><i class="fas fa-check"></i></td>
-		<td><i class="fas fa-check"></i></td>
-		<td><i class="fas fa-check"></i></td>
-	</tr>
-	<tr>
-		<td>Pitch opportunity about the company</td>
-		<td><i class="fas fa-check"></i><br>1 min</td>
-		<td><i class="fas fa-check"></i><br>2 mins</td>
-		<td><i class="fas fa-check"></i><br>3 mins</td>
-		<td><i class="fas fa-check"></i><br>5 mins</td>
-	</tr>
-	<tr>
-		<td>Breakfast and Lunch Passes provided</td>
-		<td>2<br>persons</td>
-		<td>3<br>persons</td>
-		<td>4<br>persons</td>
-		<td>5<br>persons</td>
-	</tr>
-						<tr>
-		<td>Logo listed on SystemsFair website</td>
-		<td><i class="fas fa-check"></i></td>
-		<td><i class="fas fa-check"></i></td>
-		<td><i class="fas fa-check"></i></td>
-		<td><i class="fas fa-check"></i></td>
-	</tr>
-	<tr>
-		<td>2 Parking passes</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><i class="fas fa-check"></i></td>
-		<td><i class="fas fa-check"></i></td>
-		<td><i class="fas fa-check"></i></td>
-	</tr>
-
-	<tr>
-		<td>On-Campus Company Information Session on the same or other day in the same semester</td>
+		<td>6'x6' booth + 2 chairs</td>
 		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
-		<td>Company Logo and brief on two MSESS and SSSS newsletters</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><i class="fas fa-check"></i></td>
-		<td><i class="fas fa-check"></i></td>
-		<td><i class="fas fa-check"></i></td>
+		<td>Breakfast and Lunch passes provided</td>
+		<td>5 persons</td>
+		<td>4 persons</td>
+		<td>3 persons</td>
+		<td>2 persons</td>
 	</tr>
 	<tr>
-		<td>Organization featured in one page of printed brochure and selected print advertisement</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td>Reserved Parking spot (please provide details in advance)</td>
+		<td>4 vehicles</td>
+		<td>3 vehicles</td>
+		<td>2 vehicles</td>
+		<td>1 vehicle</td>
+	</tr>
+	<tr>
+		<td>Meet the Surrey Engineering Design Teams</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
 	</tr>
 	<tr>
 		<td>Premium High-traffic booth location</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 	</tr>
 	<tr>
-		<td>venue for interviews during the event day</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td>On-campus company information session upto 2 weeks before the event</td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 	</tr>
 	<tr>
-		<td>Company logo on refreshment table tent cards</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td>Company logo and brief on MSESS website for 4 months</td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 	</tr>
 	<tr>
-		<td>Logo on MSESS website, SSSS website, and SystemsFair website homepage for 4 months</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td>Company logo on refreshment table pamphlets</td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 	</tr>
 	<tr>
-		<td>Logo featured on printed posters for SystemsFair advertising Campaign</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td>Company Logo featured on printed SystemsFair banners</td>
 		<td><i class="fas fa-check"></i></td>
 		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 	</tr>
 	<tr>
-		<td>Logo printed on SystemsFair 2019 T-Shirts</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td>Advertise your organization upto 2 weeks before</td>
 		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 	</tr>
 	<tr>
-		<td>A Large TV screen</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td>Logo printed on event t-shirts</td>
 		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 	</tr>
 	<tr>
-		<td>Double the size of the regular booth</td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
-		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td>A large TV screen</td>
 		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+	</tr>
+	<tr>
+		<td>Premium sized booths+ additional chairs</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 	</tr>
 
 </tbody>
 </table>
 </div>
 
-<b>* Early Bird Pricing. Valid until December 10, 2018</b>
+<b>* Early Bird Pricing. Valid until January 9, 2020</b>
 
-# Registration
+<!----# Registration
 <div style="width:100%; text-align:left;"><iframe src="https://eventbrite.ca/tickets-external?eid=51720767207&ref=etckt" frameborder="0" height="733"
       width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div
       style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color:
       #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.ca/">Powered by Eventbrite</a></div></div>
+-->
