@@ -35,9 +35,9 @@ Other Exhibitors
 * TELUS
 * GENESIS ROBOTICS
 
-Partners
+<!--Partners
 
-* ACUSPIRE
+* ACUSPIRE -->
 
 # Photo Gallery
 

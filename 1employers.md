@@ -69,8 +69,8 @@ Our design teams are made by students who are technology enthusiasists. Please t
 		<td></td>
 		<td>$1750</td>
 		<td>$1250</td>
-		<td>$850</td>
-		<td>$650</td>
+		<td><strike>$850</strike><br>$750</td>
+		<td><strike>$700</strike><br>$600</td>
 	</tr>
 </tfoot>
 <tbody>
