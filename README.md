@@ -7,6 +7,7 @@ A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).
 # To setup the workplace on your computer
 
 Follow the jekyll installation setup guide from [here](https://jekyllrb.com/docs/installation/)
+
 - Download Ruby installer
 - Install Ruby (After installing Ruby, close all the terminal otherwise it won't work)
 - Install jekyll from the command line
