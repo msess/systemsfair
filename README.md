@@ -4,6 +4,16 @@ A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).
 
 ![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
+# To setup the workplace on your computer
+
+Follow the jekyll installation setup guide from [here](https://jekyllrb.com/docs/installation/)
+
+- Download Ruby installer
+- Install Ruby (After installing Ruby, close all the terminal otherwise it won't work)
+- Install jekyll from the command line
+- You're good to go. At this step, if it still doesn't work, chek the version no. that you have installed and the one mentioned in 'forty_jekyll_theme.gemspec' file. Change the version in the file accordingly.
+- Run the command 'bundle exec jekyll serve' and your website should start.
+
 # How to Use
 
 For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
