@@ -27,6 +27,11 @@ nav-menu: true
         <td colspan="1"><p><span class="image main"><img src="assets/images/team/black.jpg" alt="Systems hack" /></span></p><p><h2>Chris</h2></p><p>CFO</p></td>
         <td colspan="1"><p><span class="image main"><img src="assets/images/team/black.jpg" alt="Systems hack" /></span></p><p><h2>Ken</h2></p><p>CFO Assisstant</p></td>
 	</tr>
+    <tr>
+        <td colspan="1"><p><span class="image main"><img src="assets/images/team/arrsh.jpg" alt="Systems hack" /></span></p><p><h2>Arrsh Mittal</h2></p><p>Marketing</p></td>
+        <td></td>
+        <td></td>
+    </tr>
 </tbody>
 </table>
 </div>
