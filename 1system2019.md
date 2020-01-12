@@ -1,8 +1,8 @@
 ---
 title: Previous Years
 layout: post
-permalink: /system2018
-description: SystemsFair 2018 was held on Feb. 8, 2019. There were 19 companies who participated in this career fair and more than 200 students attended this fair. The event helped students look at the work the companies are working on whereas the employers get to meet to meet/hire students who would be valueable for the company. </p> <b>Checkout our gallery for SystemsFair 2019!!</b></p><br><ul class="actions"><li><a href="students.html" class="button">Learn more</a></li></ul>
+permalink: /system2019
+description: SystemsFair 2019 was held on Feb. 8, 2019. There were 19 companies who participated in this career fair and more than 200 students attended this fair. The event helped students look at the work the companies are working on whereas the employers get to meet to meet/hire students who would be valueable for the company. </p> <b>Checkout our gallery for SystemsFair 2019!!</b></p><br><ul class="actions"><li><a href="students.html" class="button">Learn more</a></li></ul>
 
 nav-menu: true
 ---
