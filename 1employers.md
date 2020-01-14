@@ -40,7 +40,7 @@ By attending SystemsFair, you can:
 
 # Get a chance to meet the Engineering Design Teams
 
-Our design teams are made by students who are technology enthusiasists. Please take your time to chck out these amazing teams (links below).
+Our design teams are made by students who are technology enthusiasists. Please take your time to check out these amazing teams (links below).
 
 * [Team Phantom](https://teamphantom.ca/)
 * [SFU Satellite](https://www.sfusat.org/)
