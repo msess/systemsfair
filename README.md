@@ -40,7 +40,11 @@ The GitHub repository is simply a mirror of the GitLab repository.
 
 # Credits
 
-Original README from HTML5 UP:
+The work in this repository is (c) [Anjandev Momi](mailto:anjan@momi.ca) 2020. The code is license under [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.en.html). The content on this website (aside from the company logos, company names, is license under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This website is a derived work from [Andrew Banchich](https://github.com/andrewbanchich/forty-jekyll-theme) who licensed his files under Creative Commons Attribution 3.0 Unported [CC-BY-3.0](http://creativecommons.org/licenses/by/3.0/).
+
+Andrew Banchich ported his template from HTML5 UP who included the following README:
 
 ```
 Forty by HTML5 UP
