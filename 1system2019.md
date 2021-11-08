@@ -8,7 +8,7 @@ nav-menu: true
 ---
 # Companies that attended the SystemsFair 2019
 
-Platinum Sponsor
+ Platinum Sponsor
 
 * SIEMENS
 

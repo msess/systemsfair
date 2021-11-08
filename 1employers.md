@@ -2,7 +2,7 @@
 title: For Employers
 layout: post
 permalink: /employers
-description: <p>We created an event for industry representatives like you to meet uprising future engineers and gain exposure for your organization. SystemsFair is the right fit for your organization if you need an engineer fluent across disciplines and trained to work in a team effectively.</p> <p>If your organization is actively hiring for co-op and full-time positions, SystemsFair is a perfect place to meet top student talent, conduct your first round of interviews and save time.</p><p><b>Interested in supporting SystemsFair 2020?</b></p><br><ul class="actions"><li><a href="employers.html" class="button">Reserve your place</a></li></ul>
+description: <p>We created an event for industry representatives like you to meet uprising future engineers and gain exposure for your organization. SystemsFair is the right fit for your organization if you need an engineer fluent across disciplines and trained to work in a team effectively.</p> <p>If your organization is actively hiring for co-op and full-time positions, SystemsFair is a perfect place to meet top student talent, conduct your first round of interviews and save time.</p><p><b>Interested in supporting SystemsFair 2022?</b></p><br><ul class="actions"><li><a href="employers.html" class="button">Reserve your place</a></li></ul>
 nav-menu: true
 image: assets/images/fair.jpg
 ---
@@ -53,6 +53,9 @@ Our design teams are made by students who are technology enthusiasists. Please t
 # Sponsorship Packages
 
 *Please contact us for custom packages starting at $300 or to inquire about the promotional discounts available*
+
+# COMING SOON...
+<!---
 <div class="table-wrapper">
 <table class="alt">
 <thead>
@@ -177,10 +180,11 @@ Our design teams are made by students who are technology enthusiasists. Please t
 </table>
 </div>
 
-<b>* Early Bird Pricing. Valid until January 9, 2020</b>
+<b>* Early Bird Pricing. Valid until January 9, 2022</b>
 
 # Registration
 <div style="width:100%; text-align:left;"><iframe src="https://www.eventbrite.ca/e/systems-fair-2020-tickets-81252102225" frameborder="0" height="733"
       width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div
       style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color:
       #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.ca/">Powered by Eventbrite</a></div></div>
+-->
