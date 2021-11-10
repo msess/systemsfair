@@ -1,11 +1,11 @@
 # site settings
 title: SystemsFair
 subtitle: SFU Surrey Tech Career Fair
-email: trine_figueroa@sfu.ca
+email: info@systemsfair.ca
 description: Software Systems and Mechatronic Systems Engineering Career Fair
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://systemsfair.ca" # the base hostname & protocol for your site
-author: Trine Figueroa
+author: Jonathan Wan
 street_address: 250-13450 102 Avenue
 city: Surrey
 state: British Columbia
