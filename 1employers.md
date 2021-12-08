@@ -261,7 +261,7 @@ Our design teams are made by students who are technology enthusiasists. Please t
 <b>* Early Bird Pricing. Valid until January 9, 2022</b>
 
 # Registration
-Register for SystemsFair 2020 below or click <a href="https://www.eventbrite.com/e/sfu-systemsfair-2022-tickets-224282102807"><u>here</u>.</a>
+Register for SystemsFair 2022 below or click <a href="https://www.eventbrite.com/e/sfu-systemsfair-2022-tickets-224282102807"><u>here</u>.</a>
 
 <div style="width:100%; text-align:left;"><iframe src="https://www.eventbrite.com/e/sfu-systemsfair-2022-tickets-224282102807" frameborder="0" height="733"
       width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div
