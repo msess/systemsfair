@@ -52,13 +52,92 @@ Our design teams are made by students who are technology enthusiasists. Please t
 
 # Sponsorship Packages
 
-*Please contact us for custom packages starting at $300 or to inquire about the promotional discounts available*
+*Please contact us to inquire about the promotional discounts available*
 
-# COMING SOON...
-<!---
 <div class="table-wrapper">
 <table class="alt">
+
 <thead>
+	<tr>
+		<td></td>
+		<td><b>Gold<br>Sponsor</b></td>
+		<td><b>Silver<br>Sponsor</b></td>
+		<td><b>Bronze<br>Sponsor</b></td>
+	</tr>
+</thead>
+<tfoot>
+	<tr>
+		<td></td>
+		<td>$1500</td>
+		<td>$1200</td>
+		<td>$800<br>Early Bird: $650</td>
+	</tr>
+</tfoot>
+<tbody>
+	<tr>
+		<td>One day attendance</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Representatives</td>
+		<td>4 persons</td>
+		<td>2 persons</td>
+		<td>2 persons</td>
+	</tr>
+	<tr>
+		<td>Logo listed on SystemsFair website</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<tr>
+		<td>Meet the Surrey Engineering Design Teams</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr>
+	<!-- <tr>
+		<td>Free 30-day job posting on myExperience</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+	</tr> -->
+	<tr>
+		<td>Company logo and brief on MSESS website</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+	</tr>
+	<tr>
+		<td>One spotlight session</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+	</tr>
+	<tr>
+		<td>Extra attendance day(s)</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+	</tr>
+	<tr>
+		<td>Social media promotions leading up to event</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+	</tr>
+	<tr>
+		<td>Post-event acknowledgement</td>
+		<td><i class="fas fa-check"></i></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
+	</tr>
+</tbody>
+
+
+<!-- <thead>
 	<tr>
 		<td></td>
 		<td><b>Platinum<br>Sponsor</b></td>
@@ -176,15 +255,15 @@ Our design teams are made by students who are technology enthusiasists. Please t
 		<td><img src="/assets/images/2psg2so.png" width="16" height="16" ></td>
 	</tr>
 
-</tbody>
+</tbody> -->
 </table>
 </div>
-
 <b>* Early Bird Pricing. Valid until January 9, 2022</b>
 
 # Registration
-<div style="width:100%; text-align:left;"><iframe src="https://www.eventbrite.ca/e/systems-fair-2020-tickets-81252102225" frameborder="0" height="733"
+Register for SystemsFair 2020 below or click <a href="https://www.eventbrite.com/e/sfu-systemsfair-2022-tickets-224282102807"><u>here</u>.</a>
+
+<div style="width:100%; text-align:left;"><iframe src="https://www.eventbrite.com/e/sfu-systemsfair-2022-tickets-224282102807" frameborder="0" height="733"
       width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div
       style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color:
       #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.ca/">Powered by Eventbrite</a></div></div>
--->
