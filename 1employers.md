@@ -2,14 +2,14 @@
 title: For Employers
 layout: post
 permalink: /employers
-description: <p>We created an event for industry representatives like you to meet uprising future engineers and gain exposure for your organization. SystemsFair is the right fit for your organization if you need an engineer fluent across disciplines and trained to work in a team effectively.</p> <p>If your organization is actively hiring for co-op and full-time positions, SystemsFair is a perfect place to meet top student talent, conduct your first round of interviews and save time.</p><p><b>Interested in supporting SystemsFair 2022?</b></p><br><ul class="actions"><li><a href="employers.html" class="button">Reserve your place</a></li></ul>
+description: <p>We created an event for industry representatives like you to meet uprising future engineers and gain exposure for your organization. SystemsFair is the right fit for your organization if you need an engineer fluent across disciplines and trained to work in a team effectively.</p> <p>If your organization is actively hiring for co-op and full-time positions, SystemsFair is a perfect place to meet top student talent, conduct your first round of interviews and save time.</p><p><b>Interested in supporting SystemsFair 2023?</b></p><br><ul class="actions"><li><a href="employers.html" class="button">Learn More</a></li></ul>
 nav-menu: true
 image: assets/images/fair.jpg
 ---
-<ul class="actions">
+<!--<ul class="actions">
 	<li><a href="##sponsor" class="button special icon fa-arrow-down">Register now</a></li>
 </ul>
-
+Sends user to registration section-->
 <span class="image main"><img src="assets/images/fair.jpg" alt="Systems hack" /></span>
 
 
@@ -47,10 +47,9 @@ Our design teams are made by students who are technology enthusiasists. Please t
 * [Team Guardian](https://www.teamguardian.ca/)
 * [SFU Rocketry](https://www.sfurocketry.com/)
 
-<a id="#sponsor">
-</a>
 
-# Sponsorship Packages
+
+# 2022 Sponsorship Packages 
 
 *Please contact us to inquire about the promotional discounts available*
 
@@ -256,10 +255,19 @@ Our design teams are made by students who are technology enthusiasists. Please t
 	</tr>
 
 </tbody> -->
+
+
 </table>
 </div>
-<b>* Early Bird Pricing. Valid until January 9, 2022</b>
+<b>* Early Bird Pricing</b>
 
+
+<!-- Where users land when cicking registration button
+<a id="#sponsor">
+</a>
+-->
+
+<!-- Registration link
 # Registration
 Register for SystemsFair 2022 below or click <a href="https://www.eventbrite.com/e/sfu-systemsfair-2022-tickets-224282102807"><u>here</u>.</a>
 
@@ -267,3 +275,4 @@ Register for SystemsFair 2022 below or click <a href="https://www.eventbrite.com
       width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div
       style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color:
       #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.ca/">Powered by Eventbrite</a></div></div>
+-->

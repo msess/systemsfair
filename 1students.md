@@ -2,13 +2,15 @@
 title: For Students
 layout: post
 permalink: /students
-description: SystemsFair provides an incredible opportunity for students and recent graduates to discover amazing opportunities, network with industry representatives from potential future employers, and find out more about the available jobs and internships! <p> <p> SystemsFair is tailored towards Mechatronics and Software Systems students but open to all SFU students and alumni. Workshops will be coordinated to best prepare you to get the most out of the fair!</p> <b>Interested in attending SystemsFair 2022?</b></p><br><ul class="actions"><li><a href="students.html" class="button">Learn more</a></li></ul>
+description: SystemsFair provides an incredible opportunity for students and recent graduates to discover amazing opportunities, network with industry representatives from potential future employers, and find out more about the available jobs and internships! <p> <p> SystemsFair is tailored towards Mechatronics, Software Systems, and Sustainable Energy students but open to all SFU students and alumni. Workshops will be coordinated to best prepare you to get the most out of the fair!</p> <b>Interested in attending SystemsFair 2023?</b></p><br><ul class="actions"><li><a href="students.html" class="button">Learn more</a></li></ul>
 nav-menu: true
 image: assets/images/system2018/5.jpg
 ---
+<!-- Link to registration form for students
 <ul class="actions">
 	<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScbTO87UzQqNUf1n2mhubTs2lcySHiXudIxsqmd3aXM9oO26A/viewform?usp=sf_link" class="button special icon fa-arrow-down">Students Register now</a></li>
 </ul>
+--> 
 
 <!-- <span class="image main"><img src="assets/images/system2018/5.jpg" alt="Systems hack" /></span> -->
 
